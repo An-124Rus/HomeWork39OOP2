@@ -1,0 +1,15 @@
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\bin\Debug\net6.0\HomeWork39OOP2.exe
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\bin\Debug\net6.0\HomeWork39OOP2.deps.json
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\bin\Debug\net6.0\HomeWork39OOP2.runtimeconfig.json
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\bin\Debug\net6.0\HomeWork39OOP2.dll
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\bin\Debug\net6.0\HomeWork39OOP2.pdb
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\HomeWork39OOP2.csproj.AssemblyReference.cache
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\HomeWork39OOP2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\HomeWork39OOP2.AssemblyInfoInputs.cache
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\HomeWork39OOP2.AssemblyInfo.cs
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\HomeWork39OOP2.csproj.CoreCompileInputs.cache
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\HomeWork39OOP2.dll
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\refint\HomeWork39OOP2.dll
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\HomeWork39OOP2.pdb
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\HomeWork39OOP2.genruntimeconfig.cache
+E:\CSlight\HomeWork39OOP2\HomeWork39OOP2\obj\Debug\net6.0\ref\HomeWork39OOP2.dll
