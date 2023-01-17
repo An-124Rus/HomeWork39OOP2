@@ -4,30 +4,30 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int minValueX = 10;
-        int maxValueX = 20;
-        int minValueY = 5;
-        int maxValueY = 25;
+        int minValuePositionX = 10;
+        int maxValuePositionX = 20;
+        int minValuePositionY = 5;
+        int maxValuePositionY = 25;
         char playerSymbol = '@';
 
         Random random = new Random();
 
-        int playerXPosition = random.Next(minValueX, maxValueX);
-        int playerYPosition = random.Next(minValueY, maxValueY);
+        int playerPositionX = random.Next(minValuePositionX, maxValuePositionX);
+        int playerPositionY = random.Next(minValuePositionY, maxValuePositionY);
 
         Renderer renderer = new Renderer();
 
-        Player player = new Player(playerXPosition, playerYPosition);
+        Player player = new Player(playerPositionX, playerPositionY);
 
-        renderer.DrawPlayerPosition(player.X,player.Y, playerSymbol);
+        renderer.DrawPlayerPosition(player.PositionX,player.PositionY, playerSymbol);
     }
 
     class Renderer
     {
-        public void DrawPlayerPosition(int x, int y, char playerSymbol)
+        public void DrawPlayerPosition(int positionX, int positionY, char playerSymbol)
         {
             Console.CursorVisible = false;
-            Console.SetCursorPosition(x, y);
+            Console.SetCursorPosition(positionX, positionY);
             Console.WriteLine(playerSymbol);
             Console.ReadKey(true);
         }
@@ -35,13 +35,13 @@ internal class Program
 
     class Player
     {
-        public int X { get; private set; }
-        public int Y { get; private set; }
+        public int PositionX { get; private set; }
+        public int PositionY { get; private set; }
 
-        public Player(int x, int y)
+        public Player(int positionX, int positionY)
         {
-            X = x;
-            Y = y;
+            PositionX = positionX;
+            PositionY = positionY;
         }
     }
 }
